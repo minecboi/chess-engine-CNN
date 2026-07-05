@@ -1,0 +1,6 @@
+flask>=3.0
+flask-cors>=4.0
+chess>=1.10
+torch
+numpy
+gunicorn
